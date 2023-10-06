@@ -34,6 +34,8 @@ h1 {
     display: none;
 }
 
+body {background: purple;}
+
 @media (max-width: 1500px) {
     .item {
         width: 700px;
